@@ -1,6 +1,6 @@
 # java_edu
 
-todo: create ro
+todo: create row - git training
 
 2nd row
 
