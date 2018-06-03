@@ -2,7 +2,7 @@
 
 todo: create row - git training
 
-2nd row
+2nd row - fix in master
 
 3rd row
 
