@@ -11,3 +11,5 @@ todo: create row - git training
 5th row modification in branch lala
 
 6th row from lala
+
+7th ROW. Finish.
