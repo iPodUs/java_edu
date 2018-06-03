@@ -1,1 +1,4 @@
 New file in master.
+My text master
+My text in master
+My text from master
